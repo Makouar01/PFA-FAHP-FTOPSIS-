@@ -49,8 +49,8 @@ Assurez-vous d'avoir installé les éléments suivants :
 
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/votre-utilisateur/votre-projet.git
-    cd votre-projet
+    git clone https://github.com/Makouar01/PFA-FAHP-FTOPSIS-.git
+    
     ```
 
 2. Installez les dépendances pour le backend :
@@ -85,9 +85,11 @@ Assurez-vous d'avoir installé les éléments suivants :
 
 ## Contributeurs
 
-- [Votre Nom](https://github.com/votre-utilisateur)
-- [Autres Contributeurs](https://github.com/autre-utilisateur)
-
+- [ABDERRAHIM MAKOUAR](https://github.com/Makouar01)
+- [Abdelghani ABOUMADA ](--)
+- [KAOUTAR LACHAAL](--)
+- KHALIL AZAROU(--)
+- ISMAIL BENZBAIR(--)
 ## Remerciements
 
 Merci à tous ceux qui ont contribué à ce projet et à nos enseignants pour leur soutien et leurs conseils.
